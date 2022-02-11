@@ -1,3 +1,8 @@
 {
-  "item.tutorialmod.ekn_ingot": "EKN Ingot"
+  "item.tutorialmod.pizza_stage_01": "Dough",
+  "item.tutorialmod.pizza_stage_02": "Dough circle shaped",
+  "item.tutorialmod.pizza_stage_03": "Dough with tomato",
+  "item.tutorialmod.pizza_stage_04": "Dough with tomato and cheese",
+  "item.tutorialmod.pizza_stage_final": "Pizza"
+
 }

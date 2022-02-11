@@ -8,10 +8,19 @@ import net.minecraft.util.registry.Registry;
 import net.tonielgordo.tutorialmod.TutorialMod;
 
 public class ModItems {
-    public static final Item EKN_INGOT = registerItem("ekn_ingot",
+    public static final Item PIZZA_STAGE_01 = registerItem("pizza_stage_01",
             new Item(new FabricItemSettings().group(ItemGroup.MISC)));
 
-    public static final Item EKN_SWORD = registerItem("ekn_sword",
+    public static final Item PIZZA_STAGE_02 = registerItem("pizza_stage_02",
+            new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+
+    public static final Item PIZZA_STAGE_03 = registerItem("pizza_stage_03",
+            new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+
+    public static final Item PIZZA_STAGE_04 = registerItem("pizza_stage_04",
+            new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+
+    public static final Item PIZZA_STAGE_FINAL = registerItem("pizza_stage_final",
             new Item(new FabricItemSettings().group(ItemGroup.MISC)));
 
     public static Item registerItem(String name, Item item){

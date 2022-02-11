@@ -27,6 +27,7 @@ public class ModItems {
         return Registry.register(Registry.ITEM, new Identifier(TutorialMod.MOD_ID, name), item);
     }
 
+
     public static void registerModItems(){
         TutorialMod.LOGGER.info("Registering Mod Items for " + TutorialMod.MOD_ID);
     }

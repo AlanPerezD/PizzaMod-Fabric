@@ -3,6 +3,6 @@
   "item.tutorialmod.pizza_stage_02": "Dough circle shaped",
   "item.tutorialmod.pizza_stage_03": "Dough with tomato",
   "item.tutorialmod.pizza_stage_04": "Dough with tomato and cheese",
-  "item.tutorialmod.pizza_stage_final": "Pizza"
-
+  "item.tutorialmod.pizza_stage_final": "Pizza",
+  "block.tutorialmod.chunkpizza": "Nachi"
 }
